@@ -9,3 +9,14 @@ I'm Mohammed Abo ALi  from Sudan,  I do special mobile apps, I have a deep inter
 - 🌱 I’m currently learning Mobile app development with flutter...
 - 📫 How to reach me؟ ...
 - gmail : alieg54860@gmail.com
+
+
+
+## Language and tools
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg" alt="Dart" height="130" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" height="130" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height="130" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" height="130" style="vertical-align:top; margin:4px">
+</p>
